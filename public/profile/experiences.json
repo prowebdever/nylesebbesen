@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Web3 Developer",
+            "subtitle": "Unanet",
+            "workType": "remote",
+            "workDescription": [
+                "Hired, trained and lead Agile team of 5 full-stack developers",
+                "Increased company revenue by 30% within 2 months after developing business logic for over 20 features",
+                "Participated in more than 3 projects per year from initial research and conceptual design through testing and implementation phases",
+                "Raised the performance of 17 by a minimum of 36% after using batch processing for file reading",
+                "Saved over 12TB of storage space by creating a PHP script to restrict the host from uploading low quality files or unsupported formats.",
+                "Streamline all offerings with a new responsive, mobile-first approach and strategy which increased mobile traffic by 31%",
+                "Cooperated with the UX designers to create a new look and feel for the website, implemented changes with jQuery library extensions, Ajax & CSS, increasing the time users spend on the website by 40 minutes",
+                "Using solidity framework features, optimized the smart contract program and boosted performance by 18%",
+                "Closely collaborated with the product and dev teams to improve the efficiency of the platform by 19%",
+                "Participated in developing the smart contract, which took me 8 months",
+                "Built 3 reusable cross-chain libraries",
+                "Improved data structures to solve 3 serious issues and ease the work of the dev team"
+            ],
+            "dateText": "04/2020 – 07/2022"
+        },
+        {
+            "title": "Full Stack developer",
+            "subtitle": "HCL Hong Kong SAR Limited",
+            "workType": "remote",
+            "workDescription": [
+                "Created 40+ technical design documents and implemented business logic for 15 features",
+                "Completed over 300h of training in UX and UI design implementation",
+                "Created a flight schedule search tool for a travel agency",
+                "Integrate internally-developed micro-services, as well as marketplace 3rd party modules",
+                "Designed and developed front-end GUI over 10 applications using JSP, HTML, JavaScript, CSS, and Ajax",
+                "Found and fixed over 70 bugs, increasing security and usability",
+                "Working on the formation and maintenance of innovate blockchain technology, and conducting expert market research",
+                "Gaming platform over Ethereum blockchain using ERC 721"
+            ],
+            "dateText": "02/2017 – 01/2020"
+        }
+    ]
+}

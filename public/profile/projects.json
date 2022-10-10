@@ -1,0 +1,120 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/foxgirlcom.png",
+            "title": "Foxgirl",
+            "bodyText": "Deployed the Foxgirl Token and built the NFT marketplace, NFT pack, NFT Farming. implemented the cool and usefull utilitiy, exciting features, priceless NFTs like live chart, Green Wall buy bot, artwork.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/prowebdever/"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://foxgirl.com"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "Laravel",
+                "JavaScript",
+                "Jquery",
+                "Bootstrap",
+                "MySQL",
+                "bitquery"
+            ]
+        },
+        {
+            "image" : "images/projects/nft.png",
+            "title": "NFTFY",
+            "bodyText": "NFTFY was developed to solve the main problems of the NFT ecosystem (including low liquidity, investment risk, and asset monetization) through NFT fractionalization. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/prowebdever/nftfyfrontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.nftfy.org"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node",
+                "Express",
+                "Postgre",
+                "Solidity",
+                "AWS",
+                "NFT marketplace",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/fansforever.png",
+            "title": "Fansforever",
+            "bodyText": "TronApes is the only originally made generative and fantastic project on Tron, with each TronApe having unique characteristics and traits that are made by top artists from the world",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/prowebdever/fansforever"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://https://tapes.fansforever.io/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Javascript",
+                "HTML",
+                "Comet UI Kit",
+                "SCSS"
+            ]
+        },
+        {
+            "image" : "images/projects/cvi.png",
+            "title": "CVI",
+            "bodyText": "The Crypto Volatility Index (CVI) is a decentralized VIX for crypto that allows users to hedge themselves against market volatility and impermanent loss.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/prowebdever"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://cvi.finance"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        },
+        {
+            "image" : "images/projects/fatapeclubio.png",
+            "title": "Fatapeclub",
+            "bodyText": "developed the front end and smart contract.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/prowebdever/fatapeclub"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://fatapeclub.io"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Express",
+                "Node",
+                "Solidity"
+            ]
+        }
+    ]
+}
+
+
