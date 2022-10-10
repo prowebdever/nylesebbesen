@@ -2,39 +2,67 @@
     "experiences": [
         {
             "title": "Web3 Developer",
-            "subtitle": "Unanet",
+            "subtitle": "ELANIIN",
             "workType": "remote",
             "workDescription": [
-                "Hired, trained and lead Agile team of 5 full-stack developers",
-                "Increased company revenue by 30% within 2 months after developing business logic for over 20 features",
-                "Participated in more than 3 projects per year from initial research and conceptual design through testing and implementation phases",
-                "Raised the performance of 17 by a minimum of 36% after using batch processing for file reading",
-                "Saved over 12TB of storage space by creating a PHP script to restrict the host from uploading low quality files or unsupported formats.",
-                "Streamline all offerings with a new responsive, mobile-first approach and strategy which increased mobile traffic by 31%",
-                "Cooperated with the UX designers to create a new look and feel for the website, implemented changes with jQuery library extensions, Ajax & CSS, increasing the time users spend on the website by 40 minutes",
-                "Using solidity framework features, optimized the smart contract program and boosted performance by 18%",
-                "Closely collaborated with the product and dev teams to improve the efficiency of the platform by 19%",
+                "Developed a web-based application using 100% React JS",
+                "Strongly typed coding using ES6 features and Typescript for 15% better visuals",
+                "Responsible for developing the UI pages using Angular6, HTML5, CSS3, JavaScript and Bootstrap",
+                "Coded extensively using JavaScript frameworks by implementing MVC architecture",
+                "Worked on design, implementation and modifying the Python code, PostgreSQL database schema on the back end, increasing efficiency by 41%",
+                "Actively played the role of an Agile Programmer and followed TDD concepts to get high 13% effect",
+                "Worked the backend by using Node JS, Express and MongoDB for 6+ months",
+                "Developed frontend by using AngularJS and JavaScript",
+                "Have worked on AWS to integrate the server-side and client-side code, saving company $2,000+ monthly.",
                 "Participated in developing the smart contract, which took me 8 months",
                 "Built 3 reusable cross-chain libraries",
                 "Improved data structures to solve 3 serious issues and ease the work of the dev team"
             ],
-            "dateText": "04/2020 – 07/2022"
+            "dateText": "03/2021 – 08/2022"
         },
         {
-            "title": "Full Stack developer",
-            "subtitle": "HCL Hong Kong SAR Limited",
+            "title":"Senior C++ Developer",
+            "subtitle":"ELANIIN",
+            "workType":"remote",
+            "workDescription":[
+                "Supervised and lead a team of 3 junior software engineers during the development of a robust upgrade version of the customer's software program",
+                "Developed of Linux-based Embedded Operation System to run custom SCADA programs that communicate with industrial devices",
+                "Developing a custom script compiler in a design tool for distributed control systems similar to Step7 to achieve over 30% safety",
+                "Developed a UI design tool to create an industry common style HMI that can be monitored and controlled using QT",
+                "Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency",
+                "Got the algorithm from a double packaged application in just 3 days"
+            ],
+            "dateText": "03/2021 – 08/2022"
+        },
+        {
+            "title": "Web developer",
+            "subtitle": "LIVATEK",
             "workType": "remote",
             "workDescription": [
-                "Created 40+ technical design documents and implemented business logic for 15 features",
-                "Completed over 300h of training in UX and UI design implementation",
-                "Created a flight schedule search tool for a travel agency",
-                "Integrate internally-developed micro-services, as well as marketplace 3rd party modules",
-                "Designed and developed front-end GUI over 10 applications using JSP, HTML, JavaScript, CSS, and Ajax",
+                "Worked on React.JS components, Forms, Events, Keys, Router, Animations and Redux concept for 3+ months",
+                "Developed Single Page Application using Angular JS in just 30 minutes",
+                "Developed the web component using HTML5, CSS, JavaScript, j Query, Redux and ReactJS to increase target audience engagement by 8%",
+                "Collaborated with designers and performance team on designing updates to sites and blogs, improving user experience by 39%",
+                "Involved in writing SQL Queries and Stored Procedures, increasing processing effectiveness by 21%",
+                "Test RESTful design by using 60% Postman",
+                "Communicated and worked with internal departments including managers, sales, customer service, project managers for 6+ months",
+                "I have used GIT for over 5 years for version control system and code management.",
                 "Found and fixed over 70 bugs, increasing security and usability",
                 "Working on the formation and maintenance of innovate blockchain technology, and conducting expert market research",
                 "Gaming platform over Ethereum blockchain using ERC 721"
             ],
-            "dateText": "02/2017 – 01/2020"
+            "dateText": "08/2018 – 01/2021"
+        },
+        {
+            "title": "C++ developer",
+            "subtitle": "LIVATEK",
+            "workType": "remote",
+            "workDescription": [
+                "Implemented a parallel and sequential version of matrix multiplication kernel for loop blocking optimization on x86 using Open MP with C/C++",
+                "Develops a script using goldman sachss slang language that extracted data from commodity trading positions and transformed to store into a sybase inventory tracking data warehouse",
+                "Developed and Tested a C++ based Console Application that allowed communication between other consoles, telephones, and digital/analog radios"
+            ],
+            "dateText": "08/2018 – 01/2021"
         }
     ]
 }

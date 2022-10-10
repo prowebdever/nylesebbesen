@@ -47,12 +47,12 @@ function Education(props) {
           <Row>
             <Col>
               <div style = {{marginTop: "50px", fontSize: "40px", color: 'blue'}}>
-                Bachelor of Computer Science - 2017
+                Bachelor of Computer Science - 2018
               </div>
             </Col>
 
             <Col>
-              <div style={{ fontSize: "40px", marginTop: "100px", color: 'blue'}}>Hong Kong University of Science and Technology</div>
+              <div style={{ fontSize: "40px", marginTop: "100px", color: 'blue'}}>Technical university of denmark</div>
             </Col>
           </Row>
         </Fade>
